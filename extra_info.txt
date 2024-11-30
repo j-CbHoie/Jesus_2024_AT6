@@ -1,0 +1,1 @@
+The UserInputValidator class is responsible for validating a list of user inputs. It includes a method validate_positive_integers, which checks whether each input is a valid positive integer. If valid, the integer is added to a new list.
